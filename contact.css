@@ -1,0 +1,29 @@
+.wrapper {
+    width:980px;
+    text-align: center;
+}
+
+.navbar-light .navbar-brand {
+    background-color:cadetblue;
+    color:whitesmoke;
+}
+
+h1 {
+    color:cadetblue;
+}
+
+.left {
+    float:left;
+}
+
+footer {
+    background:rgb(24, 24, 24);
+    color:whitesmoke;
+    position: fixed;
+    padding:15px;
+    margin:0;
+    bottom:0;
+    border-top:5px solid rgb(56, 99, 100);
+    width:100%;
+}
+

@@ -1,0 +1,84 @@
+body {
+    background: gray;
+}
+
+img {
+    width:300px;
+    height:400px;
+    margin: 30px 15px 30px 15px;
+}
+
+.box {
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    background: cadetblue;
+    color:whitesmoke;
+    border: 2px solid black;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.box-1 {
+    top: 411px;
+    left: 300px;
+}
+
+.box-2 {
+    top: 411px;
+    left: 774px;
+}
+
+.box-3 {
+    top: 871px;
+    left: 774px;
+}
+
+.box-4 {
+    top: 871px;
+    left: 300px;
+}
+
+.box-5 {
+    top: 1331px;
+    left: 300px;
+}
+
+
+.container {
+    width:980px;  
+}
+
+.navbar-light .navbar-brand {
+    background-color:cadetblue;
+    color:whitesmoke;
+}
+
+h1 {
+    color:whitesmoke;
+}
+
+.left {
+    float:left;
+}
+
+p {
+    color:whitesmoke;
+    font-size:24px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight:700;
+}
+
+footer {
+    background:rgb(24, 24, 24);
+    color:whitesmoke;
+    position: static;
+    padding:15px;
+    margin:0;
+    bottom:0;
+    border-top:5px solid rgb(56, 99, 100);
+    width:100%;
+}
+

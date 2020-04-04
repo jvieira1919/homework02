@@ -10,5 +10,7 @@ The "Portfolio" page has images with small title bars infront of them, using con
 
 The "Contact" page is where you will find my contact informations, with my name and email address. All links are linked together for easier access to each one, from which ever site.
 
+All sites are mobile resposive. From the smallest screens to the largest screens.
+
 
 
